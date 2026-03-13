@@ -1,0 +1,4 @@
+{
+  "_comment": "占位：PRD 第3节目录结构要求存在 tauri.conf.json。后续将由 Tauri 2 初始化生成并按安全要求配置 CSP、窗口、权限与插件（sql/keychain/notification 等）。"
+}
+
