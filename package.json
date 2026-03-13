@@ -1,0 +1,7 @@
+{
+  "name": "nextoffer",
+  "private": true,
+  "version": "0.0.0",
+  "_comment": "占位：PRD 第3节要求根目录存在 package.json。后续会在 Phase 1 工程初始化时写入真实的 Vite/Vue/Tauri 前端依赖与脚本。"
+}
+
